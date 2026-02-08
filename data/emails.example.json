@@ -1,0 +1,19 @@
+{
+  "recipients": [
+    {
+      "email": "john@example.com",
+      "name": "John Doe"
+    },
+    {
+      "email": "jane@example.com",
+      "name": "Jane Smith"
+    },
+    {
+      "email": "alex@example.com",
+      "name": "Alex"
+    },
+    {
+      "email": "no-name@example.com"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Credentials & secrets
+config/credentials.json
+config/config.json
+
+# Runtime data
+data/token.json
+data/progress.json
+
+# User data files (only examples are committed)
+data/emails.json
+data/template.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Virtual environment
+venv/
+.venv/

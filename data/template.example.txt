@@ -1,0 +1,15 @@
+SUBJECT: {Hello|Hey} {{first_name}}, {check this out|this is for you|you're gonna love this}!
+---
+Hey {{first_name}},
+
+I'm excited to share this with you. We just launched something new.
+
+Check it out here:
+https://your-website.com
+
+If you have any questions, feel free to reach out.
+
+Best,
+Your Name
+
+Important: You are not subscribed to any mailing list. This is a one-time personal email.

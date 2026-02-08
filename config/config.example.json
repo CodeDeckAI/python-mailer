@@ -1,0 +1,21 @@
+{
+  "sender_name": "Your Name",
+
+  "rate_limiting": {
+    "emails_per_hour": 20,
+    "base_interval_seconds": 180,
+    "jitter_range_min": 0,
+    "jitter_range_max": 45,
+    "daily_limit": 100
+  },
+
+  "mongodb": {
+    "enabled": false,
+    "uri": "mongodb+srv://user:password@cluster.mongodb.net/dbname",
+    "database": "your_database",
+    "collection": "users",
+    "filter": {},
+    "email_field": "email",
+    "name_field": "name"
+  }
+}
