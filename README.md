@@ -21,8 +21,8 @@ CodeDeck Mailer sends personalized emails to a list of recipients using the Gmai
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/codedeck-mailer.git
-cd codedeck-mailer
+git clone https://github.com/CodeDeckAI/python-mailer.git
+cd python-mailer
 ```
 
 ### 2. Install dependencies
